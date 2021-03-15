@@ -1,0 +1,227 @@
+Folder PATH listing for volume OS
+Volume serial number is A235-C6B0
+C:.
+ÀÄÄÄDocuments
+    ÃÄÄÄ20210303-PRODUCTS.docx
+    ÃÄÄÄAdobe
+    ³   ÀÄÄÄPhotoshop Cloud Associates
+    ÃÄÄÄAudacity
+    ÃÄÄÄBandicam
+    ³   ÃÄÄÄbandicam 2020-11-12 21-03-29-773.mp4
+    ³   ÃÄÄÄbandicam 2020-11-12 21-03-58-724.mp4
+    ³   ÃÄÄÄbandicam 2020-11-12 21-04-39-856.mp4
+    ³   ÃÄÄÄbandicam 2020-11-25 22-30-23-481.mp4
+    ³   ÃÄÄÄbandicam 2020-11-25 22-30-41-008.mp4
+    ³   ÃÄÄÄbandicam 2020-11-25 22-43-01-752.mp4
+    ³   ÃÄÄÄbandicam 2020-11-25 23-07-49-409.mp4
+    ³   ÃÄÄÄbandicam 2020-11-25 23-19-48-775.jpg
+    ³   ÃÄÄÄbandicam 2020-11-25 23-19-56-109.jpg
+    ³   ÃÄÄÄbandicam 2020-11-25 23-20-06-296.jpg
+    ³   ÃÄÄÄbandicam 2020-11-25 23-20-08-377.jpg
+    ³   ÃÄÄÄbandicam 2020-11-25 23-21-16-317.jpg
+    ³   ÃÄÄÄbandicam 2020-12-02 20-51-37-625.mp4
+    ³   ÃÄÄÄbandicam 2021-03-11 07-32-56-467.jpg
+    ³   ÃÄÄÄbandicam 2021-03-11 07-32-57-969.jpg
+    ³   ÃÄÄÄbandicam 2021-03-11 07-33-00-129.jpg
+    ³   ÃÄÄÄbandicam 2021-03-11 07-33-02-382.jpg
+    ³   ÃÄÄÄbandicam 2021-03-11 07-33-05-582.jpg
+    ³   ÃÄÄÄbandicam 2021-03-11 07-33-08-075.jpg
+    ³   ÃÄÄÄbandicam 2021-03-11 07-33-10-476.jpg
+    ³   ÃÄÄÄbandicam 2021-03-11 07-33-32-726.jpg
+    ³   ÃÄÄÄbandicam 2021-03-11 07-33-33-963.jpg
+    ³   ÃÄÄÄbandicam 2021-03-11 07-33-35-580.jpg
+    ³   ÃÄÄÄbandicam 2021-03-11 07-33-37-687.jpg
+    ³   ÃÄÄÄbandicam 2021-03-11 07-33-39-410.jpg
+    ³   ÃÄÄÄbandicam 2021-03-11 07-33-41-141.jpg
+    ³   ÃÄÄÄbandicam 2021-03-11 07-33-42-494.jpg
+    ³   ÃÄÄÄbandicam 2021-03-11 07-33-43-832.jpg
+    ³   ÃÄÄÄbandicam 2021-03-11 07-33-45-151.jpg
+    ³   ÃÄÄÄbandicam 2021-03-11 07-33-46-550.jpg
+    ³   ÃÄÄÄbandicam 2021-03-11 07-33-47-949.jpg
+    ³   ÃÄÄÄbandicam 2021-03-11 07-33-49-448.jpg
+    ³   ÃÄÄÄbandicam 2021-03-12 21-43-07-014.jpg
+    ³   ÃÄÄÄbandicam 2021-03-12 21-43-49-391.jpg
+    ³   ÃÄÄÄbandicam 2021-03-12 21-43-58-071.jpg
+    ³   ÃÄÄÄbandicam 2021-03-12 21-43-59-690.jpg
+    ³   ÃÄÄÄbandicam 2021-03-12 21-44-00-578.jpg
+    ³   ÀÄÄÄbandicam 2021-03-12 21-44-01-586.jpg
+    ÃÄÄÄbookmarks_2_28_21.html
+    ÃÄÄÄCOMPUTER_VISION_TEST_DATA
+    ³   ÃÄÄÄTEST_DATA_20210220_ToleranceAnalysisImages
+    ³   ³   ÃÄÄÄDocs
+    ³   ³   ÀÄÄÄImages
+    ³   ³       ÃÄÄÄ{0B08A4B0-EC1C-4319-B2A7-ADD3F720F58C}.png
+    ³   ³       ÃÄÄÄ{1839C031-70F6-46DF-800E-642B99AC5AB0}.png
+    ³   ³       ÃÄÄÄ{1B86CD86-63A8-4EFF-9311-63545881F0DD}.png
+    ³   ³       ÃÄÄÄ{1D96F681-088F-49F1-89DF-2E4D181408C7}.png
+    ³   ³       ÃÄÄÄ{1DD91470-B8A9-451D-BD0F-3DB86EFB91FB}.png
+    ³   ³       ÃÄÄÄ{23A58996-8D71-4E0C-B68B-3A4240001957}.png
+    ³   ³       ÃÄÄÄ{2630205B-34C8-45B8-A4F4-3C35BDA3339A}.png
+    ³   ³       ÃÄÄÄ{277CCE8F-562A-4060-8567-C9CD256DADD0}.png
+    ³   ³       ÃÄÄÄ{289C36AC-09B2-4CD6-85BF-6C57E7F4093D}.png
+    ³   ³       ÃÄÄÄ{2B6300D9-F05D-43A9-9157-637831088535}.png
+    ³   ³       ÃÄÄÄ{2E441DF5-ECA7-4E0A-8682-5E5B262726BC}.png
+    ³   ³       ÃÄÄÄ{305E6AD4-AF7A-446D-876B-1FE879104310}.png
+    ³   ³       ÃÄÄÄ{315F665B-7A91-42A4-B79F-5F5EF49B22E4}.png
+    ³   ³       ÃÄÄÄ{34217BE3-49D4-4FC7-B4E1-B1D31DE0EEE7}.png
+    ³   ³       ÃÄÄÄ{3F5A8761-7653-4A80-A730-298FA5E189EA}.png
+    ³   ³       ÃÄÄÄ{41A62568-78FE-442B-9435-1520F0F3CEED}.png
+    ³   ³       ÃÄÄÄ{4ADCCF3B-C9E6-4CBC-BB42-5DA1B96C5FA9}.png
+    ³   ³       ÃÄÄÄ{5292DE14-857B-41A9-B6D9-BD5667E93426}.png
+    ³   ³       ÃÄÄÄ{53C031C1-28E0-4118-B844-49ED6C128346}.png
+    ³   ³       ÃÄÄÄ{55309E75-287C-4512-9618-547BDE68D9C3}.png
+    ³   ³       ÃÄÄÄ{5AF5EE3E-46D9-42C7-A00B-2C9D222A842B}.png
+    ³   ³       ÃÄÄÄ{5CADBA1B-C50B-42CF-947A-ADED2DFB87AF}.png
+    ³   ³       ÃÄÄÄ{5CFA74BB-8995-40A7-9158-A27558EA11CC}.png
+    ³   ³       ÃÄÄÄ{61B0EB2A-F207-448C-9F2F-754671A83753}.png
+    ³   ³       ÃÄÄÄ{68803A8A-C692-48AB-9499-0095B2F36BE5}.png
+    ³   ³       ÃÄÄÄ{6B113D82-2A16-4632-AA74-F71D744CBF3F}.png
+    ³   ³       ÃÄÄÄ{6DC7C5CD-2B21-43E0-9FB6-10EA9E3EC02B}.png
+    ³   ³       ÃÄÄÄ{771CC8E3-CE72-401B-8376-149DC5B04E1C}.png
+    ³   ³       ÃÄÄÄ{77C7B485-8523-4F68-8473-69FE7C4427B5}.png
+    ³   ³       ÃÄÄÄ{7DD4FF4E-A508-47BD-B280-DDADDDAE919F}.png
+    ³   ³       ÃÄÄÄ{7E588AFF-A075-4E9E-92A6-DB0A042E769E}.png
+    ³   ³       ÃÄÄÄ{81EE0078-1B38-4755-89C0-02810A6113B8}.png
+    ³   ³       ÃÄÄÄ{86142E90-BD32-469B-9370-8A15AD8F2797}.png
+    ³   ³       ÃÄÄÄ{89484C85-3DF9-4C22-AB05-C2C8D38F772D}.png
+    ³   ³       ÃÄÄÄ{8A3187C1-A6AA-469F-8983-D43DEA7FD549}.png
+    ³   ³       ÃÄÄÄ{8DAAB4DB-BED1-4B17-9E38-409216523D4E}.png
+    ³   ³       ÃÄÄÄ{8F605EA2-C338-4933-9DD8-8F905D984CAC}.png
+    ³   ³       ÃÄÄÄ{9372163B-C846-41D5-8607-8B98D89A862F}.png
+    ³   ³       ÃÄÄÄ{9560E9AA-9A09-401A-A10C-B4B15923D1EC}.png
+    ³   ³       ÃÄÄÄ{9B65180B-EC59-4874-A63C-76E6A224AB1D}.png
+    ³   ³       ÃÄÄÄ{9CC253F9-8553-44C6-9D4C-DE028334CB86}.png
+    ³   ³       ÃÄÄÄ{9F28C940-10FC-4942-B17C-9CC65A404D85}.png
+    ³   ³       ÃÄÄÄ{A1FA3D83-BB38-4240-AF1F-28C10950ED38}.png
+    ³   ³       ÃÄÄÄ{A48C9132-7210-4E0A-82BB-7ACA3139E1C5}.png
+    ³   ³       ÃÄÄÄ{A8A7994F-D358-4682-A207-8407FF341DE7}.png
+    ³   ³       ÃÄÄÄ{AB0904C2-1E6E-44BC-9FFF-B54A6C6B47F0}.png
+    ³   ³       ÃÄÄÄ{AD4067E5-E492-4E93-A76E-A69426BC9392}.png
+    ³   ³       ÃÄÄÄ{B774A3C0-F079-4C9B-9FEA-E6A4B6607CAF}.png
+    ³   ³       ÃÄÄÄ{B8D9365C-A091-4CF4-9B90-A516D225B965}.png
+    ³   ³       ÃÄÄÄ{BA9E05B5-8F16-49D9-A29C-D449ABBD4117}.png
+    ³   ³       ÃÄÄÄ{CAAD0321-A7F3-413D-B495-3A0DFAA90CCD}.png
+    ³   ³       ÃÄÄÄ{CD30FFB1-8BB3-4253-9906-47A1129E5982}.png
+    ³   ³       ÃÄÄÄ{D93BAD57-4484-485C-B97C-5E35913240DA}.png
+    ³   ³       ÃÄÄÄ{DA48F3EC-A424-4B75-A317-93545133A79C}.png
+    ³   ³       ÃÄÄÄ{E75E0510-4C19-4250-8A1D-0D7A302B92D7}.png
+    ³   ³       ÃÄÄÄ{F11B49CB-CAAE-4DD6-A649-CB583C24C16D}.png
+    ³   ³       ÃÄÄÄ{F17FEF4A-8372-4B70-A05F-E06C9FC9D2B8}.png
+    ³   ³       ÃÄÄÄ{F220B223-84FF-4CA6-B9B9-1A92826B72BC}.png
+    ³   ³       ÃÄÄÄ{F3265AF1-D280-45C0-AA13-59B8F2844F72}.png
+    ³   ³       ÃÄÄÄ{F6C33147-84B3-4635-A32C-CB6F535DF2BB}.png
+    ³   ³       ÃÄÄÄ{FB785B51-F30E-4F59-9340-0BA9B19540E1}.png
+    ³   ³       ÀÄÄÄ{FD21E2B4-21D6-47A2-9230-6FB8D19135FE}.png
+    ³   ÀÄÄÄTEST_DATA_20210228_TIT
+    ³       ÃÄÄÄScreenshot 2021-02-28 101257.png
+    ³       ÃÄÄÄScreenshot 2021-02-28 101606.png
+    ³       ÃÄÄÄScreenshot 2021-02-28 101623.png
+    ³       ÃÄÄÄScreenshot 2021-02-28 101701.png
+    ³       ÀÄÄÄScreenshot 2021-02-28 102739.png
+    ÃÄÄÄCustom Office Templates
+    ÃÄÄÄdesktop.ini
+    ÃÄÄÄdirlist.txt
+    ÃÄÄÄdocs_name_1.docx
+    ÃÄÄÄEGDownloads
+    ÃÄÄÄFirstEntry
+    ³   ÃÄÄÄFirstEntry.html
+    ³   ÃÄÄÄFirstEntry_groups_archive
+    ³   ÃÄÄÄgoogbase_min.js
+    ³   ÃÄÄÄgwdgooglead_min.js
+    ³   ÃÄÄÄgwdgooglead_style.css
+    ³   ÃÄÄÄgwdpagedeck_min.js
+    ³   ÃÄÄÄgwdpagedeck_style.css
+    ³   ÃÄÄÄgwdpage_min.js
+    ³   ÃÄÄÄgwdpage_style.css
+    ³   ÃÄÄÄgwd_webcomponents_v1_min.js
+    ³   ÀÄÄÄgwd_workspace.json
+    ÃÄÄÄGoogle Web Designer
+    ³   ÀÄÄÄtemplates
+    ÃÄÄÄMedical-Knowledge
+    ³   ÃÄÄÄOxy lieu phap (Ph?n 01).pdf
+    ³   ÀÄÄÄOxy lieu phap (Ph?n 02).pdf
+    ÃÄÄÄMicrosoft Hardware
+    ³   ÀÄÄÄMacros
+    ³       ÃÄÄÄEXCEL
+    ³       ³   ÃÄÄÄAlign Center.mhm
+    ³       ³   ÃÄÄÄAlign Left.mhm
+    ³       ³   ÃÄÄÄAlign Right.mhm
+    ³       ³   ÃÄÄÄDecrease Indent.mhm
+    ³       ³   ÃÄÄÄIncrease Indent.mhm
+    ³       ³   ÃÄÄÄNew Comment.mhm
+    ³       ³   ÃÄÄÄNext Comment.mhm
+    ³       ³   ÃÄÄÄPaste Formulas.mhm
+    ³       ³   ÃÄÄÄPaste Link.mhm
+    ³       ³   ÃÄÄÄPaste Values.mhm
+    ³       ³   ÃÄÄÄPrevious Comment.mhm
+    ³       ³   ÃÄÄÄSort A to Z.mhm
+    ³       ³   ÃÄÄÄSort Z to A.mhm
+    ³       ³   ÀÄÄÄTranslate Selected Text.mhm
+    ³       ÃÄÄÄONENOTE
+    ³       ³   ÃÄÄÄDecrease Indent.mhm
+    ³       ³   ÃÄÄÄIncrease Indent.mhm
+    ³       ³   ÃÄÄÄStrikethrough.mhm
+    ³       ³   ÃÄÄÄSubscript.mhm
+    ³       ³   ÃÄÄÄSuperscript.mhm
+    ³       ³   ÃÄÄÄZoom 100%.mhm
+    ³       ³   ÀÄÄÄZoom Page Width.mhm
+    ³       ÃÄÄÄOUTLOOK
+    ³       ³   ÃÄÄÄAttach.mhm
+    ³       ³   ÃÄÄÄDecrease Indent.mhm
+    ³       ³   ÃÄÄÄForward.mhm
+    ³       ³   ÃÄÄÄIncrease Indent.mhm
+    ³       ³   ÃÄÄÄNew Email.mhm
+    ³       ³   ÃÄÄÄNew Meeting.mhm
+    ³       ³   ÃÄÄÄReply All.mhm
+    ³       ³   ÀÄÄÄReply.mhm
+    ³       ÃÄÄÄPOWERPNT
+    ³       ³   ÃÄÄÄArrange Align Center.mhm
+    ³       ³   ÃÄÄÄArrange Align Left.mhm
+    ³       ³   ÃÄÄÄArrange Align Right.mhm
+    ³       ³   ÃÄÄÄArrange Bring to Front.mhm
+    ³       ³   ÃÄÄÄArrange Send to Back.mhm
+    ³       ³   ÃÄÄÄDecrease List Level.mhm
+    ³       ³   ÃÄÄÄIncrease List Level.mhm
+    ³       ³   ÃÄÄÄNew Comment.mhm
+    ³       ³   ÃÄÄÄNext Comment.mhm
+    ³       ³   ÃÄÄÄPrevious Comment.mhm
+    ³       ³   ÃÄÄÄStrikethrough.mhm
+    ³       ³   ÀÄÄÄTranslate Selected Text.mhm
+    ³       ÃÄÄÄVISIO
+    ³       ³   ÃÄÄÄBring to Front.mhm
+    ³       ³   ÃÄÄÄGroup.mhm
+    ³       ³   ÃÄÄÄPointer Tool.mhm
+    ³       ³   ÃÄÄÄSend to Back.mhm
+    ³       ³   ÀÄÄÄUngroup.mhm
+    ³       ÃÄÄÄWINPROJ
+    ³       ³   ÃÄÄÄ100% Complete.mhm
+    ³       ³   ÃÄÄÄ50% Complete.mhm
+    ³       ³   ÃÄÄÄIndent Task.mhm
+    ³       ³   ÃÄÄÄLink the Selected Tasks.mhm
+    ³       ³   ÀÄÄÄOutdent Task.mhm
+    ³       ÀÄÄÄWINWORD
+    ³           ÃÄÄÄDecrease Indent.mhm
+    ³           ÃÄÄÄIncrease Indent.mhm
+    ³           ÃÄÄÄNew Comment.mhm
+    ³           ÃÄÄÄNext Change.mhm
+    ³           ÃÄÄÄNext Comment.mhm
+    ³           ÃÄÄÄPaste Keep Source Formatting.mhm
+    ³           ÃÄÄÄPaste Keep Text Only.mhm
+    ³           ÃÄÄÄPaste Merge Formatting.mhm
+    ³           ÃÄÄÄPrevious Change.mhm
+    ³           ÃÄÄÄPrevious Comment.mhm
+    ³           ÃÄÄÄStrikethrough.mhm
+    ³           ÃÄÄÄTranslate Selected Text.mhm
+    ³           ÃÄÄÄView One Page.mhm
+    ³           ÀÄÄÄView Page Width.mhm
+    ÃÄÄÄMy Keys.skl
+    ÃÄÄÄMy Music
+    ÃÄÄÄMy Pictures
+    ÃÄÄÄMy Videos
+    ÃÄÄÄOneNote Notebooks
+    ÃÄÄÄSheet1.cls
+    ÃÄÄÄSound recordings
+    ³   ÃÄÄÄRecording (2).m4a
+    ³   ÀÄÄÄRecording.m4a
+    ÃÄÄÄStandard.xlsx
+    ÀÄÄÄtest_folder_1

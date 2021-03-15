@@ -39,7 +39,7 @@ class ExcelGenerator:
         self.sheet.insert_row(row)
 
 if __name__ == '__main__':
-    excel_file = ExcelGenerator("test/01_test_file.xlsx")
+    excel_file = ExcelGenerator("test_excel/01_test_file.xlsx")
     # print(type(excel_file.insert_cell_value(1, 1, 12)))
     print(excel_file.query_cell_value(1, 1))
     print(excel_file.insert_cell_hyperlink(1, 1, os.path.normpath("C:/Users\ASUS\Desktop/2021-Projects\Python-Assett/02-Libraries-Implementation\excel").replace(os.path.sep, '/')))
