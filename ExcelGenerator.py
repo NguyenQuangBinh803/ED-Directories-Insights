@@ -17,6 +17,7 @@ class ExcelGenerator:
         else:
             self.workbook = openpyxl.load_workbook(file_name)
         self.file_name = file_name
+        self.sheet_count = 1
         self.sheet = self.workbook.active
 
     def query_cell_value(self, cell_row, cell_column):
@@ -26,6 +27,11 @@ class ExcelGenerator:
         self.sheet.cell(row=cell_row, column=cell_column).value = cell_value
         
         return self.sheet.cell(row=cell_row, column=cell_column).value
+
+    def next_sheet(self):
+        self.sheet_count += 1
+        self.sheet = self.workbook.create_sheet((str(self.sheet_count)))
+
 
     def insert_cell_hyperlink(self, cell_row, cell_column, cell_link):
         self.sheet.cell(row=cell_row, column=cell_column).hyperlink = cell_link
@@ -39,7 +45,10 @@ class ExcelGenerator:
         self.sheet.insert_row(row)
 
 if __name__ == '__main__':
-    excel_file = ExcelGenerator("test_excel/01_test_file.xlsx")
+    excel_file = ExcelGenerator("test/01_test_file_2.xlsx")
     # print(type(excel_file.insert_cell_value(1, 1, 12)))
     print(excel_file.query_cell_value(1, 1))
     print(excel_file.insert_cell_hyperlink(1, 1, os.path.normpath("C:/Users\ASUS\Desktop/2021-Projects\Python-Assett/02-Libraries-Implementation\excel").replace(os.path.sep, '/')))
+    excel_file.next_sheet()
+    print(excel_file.insert_cell_hyperlink(1, 1, os.path.normpath("C:/Users\ASUS\Desktop/2021-Projects\Python-Assett/02-Libraries-Implementation\excel").replace(os.path.sep, '/')))
+    excel_file.save_workbook()
