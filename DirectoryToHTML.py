@@ -3,14 +3,57 @@ from HTMLGenerator import HTMLGenerator
 
 
 def approach_1():
+<<<<<<< HEAD
     html_generator = HTMLGenerator("test_html/02_test_html.html")
     with open("clone/IMS_1.txt", "r", encoding="utf-8", errors="ignore") as file:
         lines = file.readlines()
 
+=======
+    html_generator = HTMLGenerator("test_html/05_test_html.html")
+
+    with open("clone/direct.txt", "r", encoding="utf-8", errors="ignore") as file:
+        lines = file.readlines()
+
+    parent_path = "C:/Users/ASUS"
+>>>>>>> 717f07aa8bf08d26ab68f74019f4522c9c060707
     array_of_original = []
     for _ in range(10):
         array_of_original.append('')
+    layer_range = 0
+    for line in lines[1:]:
+        # print(len(line.split("───")[0]), line.split("───"))
+        if len(line.split("───")[0]) <= 2:
+            layer_range = 1
+            array_of_original[layer_range] = line.split("───")[-1][:-1]
+            print('/'.join(array_of_original[:layer_range+1]))
+            html_generator.insert_path(line.split("───")[0] + "───", parent_path+'/'.join(array_of_original[:layer_range+1]), line.split("───")[-1][:-1])
+        if len(line.split("───")[0]) in range(3, 6):
+            layer_range = 2
+            array_of_original[layer_range] = line.split("───")[-1][:-1]
+            print('/'.join(array_of_original[:layer_range+1]))
+            html_generator.insert_path(line.split("───")[0] + "───", parent_path+'/'.join(array_of_original[:layer_range + 1]),
+                                       line.split("───")[-1][:-1])
+        if len(line.split("───")[0]) in range(7, 10):
+            layer_range = 3
+            array_of_original[layer_range] = line.split("───")[-1][:-1]
+            print('/'.join(array_of_original[:layer_range+1]))
+            html_generator.insert_path(line.split("───")[0] + "───",parent_path+ '/'.join(array_of_original[:layer_range + 1]),
+                                       line.split("───")[-1][:-1])
+        if len(line.split("───")[0]) in range(11, 14):
+            layer_range = 4
+            array_of_original[layer_range] = line.split("───")[-1][:-1]
+            print('/'.join(array_of_original[:layer_range+1]))
+            html_generator.insert_path(line.split("───")[0] + "───", parent_path+'/'.join(array_of_original[:layer_range + 1]),
+                                       line.split("───")[-1][:-1])
+        if len(line.split("───")[0]) in range(15, 18):
+            layer_range = 5
+            array_of_original[layer_range] = line.split("───")[-1][:-1]
+            print('/'.join(array_of_original[:layer_range+1]))
+            html_generator.insert_path(line.split("───")[0] + "───", parent_path+'/'.join(array_of_original[:layer_range + 1]),
+                                       line.split("───")[-1][:-1])
 
+
+<<<<<<< HEAD
     orginal_count = 0
     for line in lines:
         print(line.split("─"))
@@ -35,6 +78,8 @@ def approach_1():
         # print(array_of_original[1], array_of_original[2])
         # print(line[:-1])
 
+=======
+>>>>>>> 717f07aa8bf08d26ab68f74019f4522c9c060707
 def approach_2():
     directory_path = "//g00sv1/N50"
     html_generator = HTMLGenerator("test_html/04_test_html_n50.html")
@@ -80,4 +125,8 @@ def approach_2():
 
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     approach_2()
+=======
+    approach_1()
+>>>>>>> 717f07aa8bf08d26ab68f74019f4522c9c060707

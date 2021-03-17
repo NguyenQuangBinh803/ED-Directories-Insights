@@ -9,7 +9,7 @@ class HTMLGenerator:
     def insert_path(self, prefix, path_address, path_basename):
         self.html_file.write("<pre>")
         self.html_file.write(prefix)
-        self.html_file.write("<a href=" + path_address + ">")
+        self.html_file.write("<a href=\"" + path_address + "\">")
         self.html_file.write(path_basename)
         self.html_file.write("</a>")
         self.html_file.write("</pre>\n")
