@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f17523b8-610f-4ea8-bf3b-ad620a58ec07" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DirectoryMapping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLDecoration/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_html/01_test_html.html" beforeDir="false" afterPath="$PROJECT_DIR$/test_html/01_test_html.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DirectoryClone.py" beforeDir="false" afterPath="$PROJECT_DIR$/DirectoryClone.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DirectoryExplore.py" beforeDir="false" afterPath="$PROJECT_DIR$/DirectoryExplore.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DirectoryToHTML.py" beforeDir="false" afterPath="$PROJECT_DIR$/DirectoryToHTML.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExcelGenerator.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExcelGenerator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTMLGenerator.py" beforeDir="false" afterPath="$PROJECT_DIR$/HTMLGenerator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clone/dir.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clone/direct.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,5 +134,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

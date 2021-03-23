@@ -41,7 +41,7 @@ class DirectoryExplore:
             # break
 if __name__ == '__main__':
     directory_explore = DirectoryExplore("C:/Users/ASUS/Documents")
-    directory_explore.patse_directory("test_excel/02_test_patse_result.xlsx")
+    directory_explore.patse_directory("test/02_test_patse_result.xlsx")
     # layer_1 = ['A', 'B', "C"]
     # layer_2 = [['A',"D","D","D","D"], ["D","D","D","D"]]
     # layer_3 = [[['','R'], ['','R']], [['','R'], ['','R']]]
