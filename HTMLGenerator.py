@@ -27,7 +27,7 @@ class HTMLGenerator:
 
         self.html_file.write(path_basename)
         self.html_file.write("</a>")
-        self.html_file.write("<button class=\"collapsible\" ")
+        self.html_file.write(" <button class=\"collapsible\" ")
         self.html_file.write("id=\"btn-" + path_level + "\"")
         self.html_file.write("></button>")
         self.html_file.write("</pre>\n")
