@@ -1,4 +1,7 @@
-# Author
+# Author - Edward J. C. Ashenbert
+# Date - 1/3/2021
+# Decription - This file is built for quick implementation of openpyxl as a middle class object.
+
 import openpyxl
 import os
 
@@ -46,7 +49,6 @@ class ExcelGenerator:
 
 if __name__ == '__main__':
     excel_file = ExcelGenerator("test/01_test_file_2.xlsx")
-    # print(type(excel_file.insert_cell_value(1, 1, 12)))
     print(excel_file.query_cell_value(1, 1))
     print(excel_file.insert_cell_hyperlink(1, 1, os.path.normpath("C:/Users\ASUS\Desktop/2021-Projects\Python-Assett/02-Libraries-Implementation\excel").replace(os.path.sep, '/')))
     excel_file.next_sheet()

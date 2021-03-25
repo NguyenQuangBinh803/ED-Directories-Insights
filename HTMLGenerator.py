@@ -1,5 +1,8 @@
-import os
+# Author - Edward J. C. Ashenbert
+# Date - 1/3/2021
+# Decription - This file is used for HTML pasting automatically
 
+import os
 
 class HTMLGenerator:
     def __init__(self, file_name):

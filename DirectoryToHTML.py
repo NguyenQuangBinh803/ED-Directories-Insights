@@ -1,3 +1,7 @@
+# Author - Edward J. C. Ashenbert
+# Date - 1/3/2021
+# Decription - This file is built for quick implementation of openpyxl as a middle class object.
+
 import os
 from HTMLGenerator import HTMLGenerator
 
