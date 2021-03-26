@@ -1,7 +1,5 @@
 from ExcelGenerator import ExcelGenerator
 import os
-import re
-
 
 class DirectoryExplore:
     def __init__(self, directory_path):
@@ -12,8 +10,7 @@ class DirectoryExplore:
         browse_count = 0
         directory_count = 0
         for current_directory, sub_directory, files in os.walk(self.directory_path):
-            # print(os.path.basename(current_directory), sub_directory, files)
-            # print(current_directory)
+
             browse_count += 1
             print(current_directory)
             if browse_count != 1:

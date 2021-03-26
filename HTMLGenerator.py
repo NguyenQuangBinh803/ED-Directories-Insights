@@ -1,5 +1,8 @@
-import os
+# Author - Edward J. C. Ashenbert
+# Date - 1/3/2021
+# Decription - This file is used for HTML pasting automatically
 
+import os
 
 class HTMLGenerator:
     def __init__(self, file_name):
@@ -27,7 +30,7 @@ class HTMLGenerator:
 
         self.html_file.write(path_basename)
         self.html_file.write("</a>")
-        self.html_file.write("<button class=\"collapsible\" ")
+        self.html_file.write(" <button class=\"collapsible\" ")
         self.html_file.write("id=\"btn-" + path_level + "\"")
         self.html_file.write("></button>")
         self.html_file.write("</pre>\n")
