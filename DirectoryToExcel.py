@@ -13,6 +13,8 @@ class DirectoryExplore:
 
             browse_count += 1
             print(current_directory)
+            if ".git" in current_directory:
+                continue
             if browse_count != 1:
                 for sub in sub_directory:
                     directory_count += 1
@@ -27,18 +29,21 @@ class DirectoryExplore:
 
             for file in files:
                 directory_count += 1
-                layer_list = os.path.join(
-                    current_directory, file).replace("\\", "/").split("/")
+                layer_list = os.path.join(current_directory, file).replace("\\", "/").split("/")
                 for index, layer in enumerate(layer_list):
                     excel_generator.insert_cell_value(
                         directory_count, index + 1, layer)
                     excel_generator.insert_cell_hyperlink(
+
                         directory_count, len(layer_list) - index, os.path.normpath(os.path.join(current_directory, file) + (os.path.sep + os.path.pardir)*(index)))
+
+        excel_generator.save_workbook()
 
             # break
 if __name__ == '__main__':
-    directory_explore = DirectoryExplore("C:/Users/ASUS/Documents")
+    directory_explore = DirectoryExplore("C:/Users/ASUS/Desktop/2021-Projects/C-Heritage")
     directory_explore.patse_directory("test/02_test_patse_result.xlsx")
+    
     # layer_1 = ['A', 'B', "C"]
     # layer_2 = [['A',"D","D","D","D"], ["D","D","D","D"]]
     # layer_3 = [[['','R'], ['','R']], [['','R'], ['','R']]]
